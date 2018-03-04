@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".PlayGame" />
+        <activity android:name=".EditGame" />
+        <activity android:name=".PlayGameOptions"></activity>
     </application>
 
 </manifest>
